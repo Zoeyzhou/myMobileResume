@@ -6,7 +6,7 @@ html,body{
     margin: 0;
     padding: 0;
     font:14px/1.5 "Microsoft yahei","Arial","sans-serif";
-    -webkit-user-select: none;
+    /*-webkit-user-select: none;*/
 }
 div,ul,p,h1,h2,li,ol{
     margin: 0;
@@ -25,7 +25,7 @@ ul,ol,li{
 }
 #main .music{
     width: 10%;
-    height: 5%;
+    height: 6%;
     background: url("../imgs/music.svg") no-repeat;
     position: fixed;
     right: 5%;
